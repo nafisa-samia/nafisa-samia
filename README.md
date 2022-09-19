@@ -1,6 +1,6 @@
 - Hi 👋, I'm Nafisa Anjum Samia
 
-- 🔭 I’m currently working in **BI and Data Analytics Team**
+- 🔭 I’m currently working in **BI and Data Analytics Team** as Data Scientist 
 
 - 🌱 I’m learning **Data Science and Machine Learning**
 
