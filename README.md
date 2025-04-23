@@ -1,8 +1,6 @@
 - Hi 👋, I'm Nafisa Anjum Samia
 
-- 🔭 I’m currently working as **Data Scientist** 
-
-- 🌱 I’m learning **Data Science and Machine Learning**
+- 🔭 Currently working as **Data Scientist** 
 
 
 <h3 align="left">Connect with me:</h3>
